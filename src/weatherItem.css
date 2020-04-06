@@ -1,0 +1,18 @@
+h4 {
+    color: rgba(0,0,0,0.6)
+}
+.weather-item {
+    text-align: center;
+}
+
+
+.weather {
+    display: flex;
+    justify-content: space-evenly;
+}
+img {
+    height: 60px;
+}
+span {
+    color: lightblue
+}
